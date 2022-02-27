@@ -1,0 +1,293 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration concerning His Majesties Royall Person, touching his present Resolution and Condition. And a copy of the Scots representation, humbly tendered to His Sacred Majesty in the name of the whole kingdom of Scotland, concerning the proceedings of the Parliament of England. As also, the copy of a letter to Windsor, touching the great rising in the west, viz. in Gloucester-shire, Hampshire, and Wilt-shire.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82072</idno>
+            <idno type="STC">Wing D568</idno>
+            <idno type="STC">Thomason E422_6</idno>
+            <idno type="STC">ESTC R204789</idno>
+            <idno type="EEBO-CITATION">99864251</idno>
+            <idno type="PROQUEST">99864251</idno>
+            <idno type="VID">116476</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82072)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116476)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 66:E422[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration concerning His Majesties Royall Person, touching his present Resolution and Condition. And a copy of the Scots representation, humbly tendered to His Sacred Majesty in the name of the whole kingdom of Scotland, concerning the proceedings of the Parliament of England. As also, the copy of a letter to Windsor, touching the great rising in the west, viz. in Gloucester-shire, Hampshire, and Wilt-shire.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Ianuary 6. 1647 [i.e. 1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With portrait of Charles I on title page.</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Captivity, 1647-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116476:1" rendition="simple:additions"/>
+            <p>A DECLARATION CONCERNING <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is Majeſties Royall Perſon, touching His preſent Reſolution and Condition. And a Copy of the Scots Repreſentation, humbly tendered to His Sacred Majeſty in the Name of the whole Kingdom of <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cotland,</hi> concerning the pro<g ref="char:EOLhyphen"/>ceedings of the Parliament of <hi>England.</hi>
+            </p>
+            <p>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s alſo, the Copy of a Letter from <hi>Windſor,</hi> touching the great Riſing in the Weſt, <hi>viz.</hi> in <hi>Glouceſter-ſhire, Hamp<g ref="char:EOLhyphen"/>ſh re,</hi> and <hi>Wilt-ſhire.</hi>
+            </p>
+            <figure>
+               <head>C R</head>
+               <figDesc>depiction of King Charles I of England</figDesc>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed for <hi>G. Horton, Ianuary</hi> 6. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:116476:2"/>
+            <pb n="1" facs="tcp:116476:2"/>
+            <head>A DECLARATION CONCERNING The Kings Majeſties Royall Perſon, a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d His Reſolution touching the preſent Affaires of the Kingdome.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">S</seg>Ince my laſt unto you, Decemb. 31. 1647. we have received other intel<g ref="char:EOLhyphen"/>ligence from the Weſtern Parts, the particulars whereof, I have ſent you here incloſed, together with the Copy of another Paper from the Towne of Chippenham in Wiltſhire, concerning the late tumultuous riſing of a great number of People in thoſe parts, pretending for the Kig. the brief ſummary followeth:</p>
+            <p>That upon Fryday laſt, a great Company of People aſſembled together in a tumultuous manner, and ſome in a
+<pb n="2" facs="tcp:116476:3"/>diſguiſed manner, being very well armed, and having ga<g ref="char:EOLhyphen"/>ther<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the quarters of divers ſouldiers under command of his Excellency Sir <hi>Thomas Fairfax,</hi> &amp; in a <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> manner, ſell upon divers Officers and Exc<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>-<gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> plu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dering and ſpoy<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing of that which they had; but at laſt, the Officers getting more ayd and aſſiſt<g ref="char:EOLhyphen"/>ance together, rallyed and fell fiercely upon the ſaid par<g ref="char:EOLhyphen"/>ty, inſomuch that a not conflict did enſue: but at laſt the Cavalry retreated, the Ex<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> Officers and Souldiers pur<g ref="char:EOLhyphen"/>ſued them, wounded ſome, and took divers priſoners, who did confeſſe, that the Glouceſterſhire men did promiſe to joyn with them, &amp; expected a greater Force from Hamp<g ref="char:EOLhyphen"/>ſhire, and Wiltſhire.</p>
+            <p>It is ſaid, that they have had ſeverall meetings in the a<g ref="char:EOLhyphen"/>foreſaid Counties, and hath endeavoured to draw others to them. It is time to take ſome courſe to quell theſe ſpi<g ref="char:EOLhyphen"/>rits before they break forth into a fire. In haſt, I reſt,</p>
+            <closer>
+               <signed>Your aſsured Friend,</signed>
+               <dateline>Winſor <date>5. Ian. 1647.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="royal_declaration">
+            <head>His Majesties Declaration and Reſolation <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oncer<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng His Royall perſon.</head>
+            <opener>
+               <signed>CHARLES R.</signed>
+            </opener>
+            <p>THe neceſſity of complying with all engaged inter<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſts in theſe great diſtempers for a perfect ſettlement of Peace<g ref="char:punc">▪</g> His Ma<g ref="char:EOLhyphen"/>jeſty findes to be none of the leaſt di<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>culties, He hath met with ſince the time of his afflictions, which is too viſible when at the ſame time that the two Houſes of the Engliſh Parliament do pre<g ref="char:EOLhyphen"/>ſent to his Majeſty ſeverall Bills, and Propoſitions for his content Commiſſioners of Scotland do openly proteſt againſt thens, ſo that were there nothing in the caſe but the conſideration of
+<pb facs="tcp:116476:3"/>that difference, His Majeſty cannot imagine how to give ſuch an <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wer to what now is propoſed, as thereby to promiſe himſelfe his great end, A perfect Peace; and when His Majeſty further conſiders how impoſſible it is (in the condition he now ſtands) to fullfill the deſires of his two Houſes, ſince the onely ancient and knowne wayes of paſſing Lawes, are either by his Majeſties per<g ref="char:EOLhyphen"/>ſonall Aſſent in the Houſe of Peers, or by Commiſſion under his great Seale of England, he cannot but wonder at ſuch failings in the manner of addreſſe which now is made anto him, unleſſe his two Houſes intend that His Majeſty ſhall allow of a Great Seale made without his Authority, even before there be any con<g ref="char:EOLhyphen"/>ſideration had thereupon in a Treaty; which as it may hereafter hazzard the ſecurity it ſelf, ſo for the preſent it ſeemes very un<g ref="char:EOLhyphen"/>reaſonable to His Majeſty: And though His Ma<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſty his willing to beleeve that the intention of very many in both Houſes in ſen<g ref="char:EOLhyphen"/>ding theſe Bills before a Treaty was onely to obtain a truſt from him, and not to take any advantage by paſſing them<g ref="char:punc">▪</g> to force o<g ref="char:EOLhyphen"/>ther things from him, which are either againſt his Conſcience or Honour; yet His Majeſty beleeves it cleare to all underſtandings that theſe Bills contain (as they are now <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pend) nor onely the di<g ref="char:EOLhyphen"/>veſting himſelfe of all Soveraignity, and that without poſſibility of recovery either of him or his Succeſſours, except by repeale of of thoſe Bills; but alſo the making his conceſſions guilty of the greateſt preſſures which can be laid upon the Subject<g ref="char:punc">▪</g> as in o<g ref="char:EOLhyphen"/>ther perticulars, ſo by giving an Arbitrary and unlimited power to the two Houſes for ever, to raiſe and levy Forces for Land or Sea-ſervice of what perſons (without diſtinction of qualities) and to what numbers they pleaſe, and likewiſe for the payment of them to leavy what monies in ſuch ſort, and by ſuch wayes, and meanes, and conſequently upon the Eſtates of what ſoever per<g ref="char:EOLhyphen"/>ſons they ſhall think he and appoint which is utterly inconſiſtent with the liberty and property of the people, and his Majeſties truſt in protecting; ſo if the Major part of both Houſes ſhould think it neceſſary to put the reſt of the Propoſitions into Bills His Majeſty leaves all the world to judge how unſafe it would be for him to conſent thereunto; and if not what a ſtrange con<g ref="char:EOLhyphen"/>dition, what a ſtrange condition of the paſſing of theſe foure Bills His Majeſty and all his Subjects would be caſt into.</p>
+            <pb n="4" facs="tcp:116476:4"/>
+            <p> And here his Majeſty thinks it not unfit to wiſh his two Hou<g ref="char:EOLhyphen"/>ſes to conſider well the manner of their proceeding. That when his Maj. deſires a perſonall Treaty with them for the ſetling of a peace; they in anſwer, propoſe the very ſubject matter of the moſt eſſentiall part thereof to be firſt granted. A thing which will bee hard<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y credible to poſterity.</p>
+            <p>Wherefore his Majeſty declares, That neither the deſire of be<g ref="char:EOLhyphen"/>ing freed from this tedious and irkſome condition of life his Ma<g ref="char:EOLhyphen"/>jeſty hath ſo long ſuffered, nor the apprehenſion of what may be<g ref="char:EOLhyphen"/>fall him, in caſe his two Houſes ſhall not afford him a perſonall Treaty, ſhall make him change his Reſolution; of not conſenting to any Act till the whole peace be concluded. Yet then he intends not only to give juſt and reaſonable ſatisfaction in the particulars preſented to him; but alſo to make good all other conceſſions men<g ref="char:EOLhyphen"/>tioned in his Meſſage of the 16 of Novem. laſt, which he thought would have produced better effects, then what he finds in the Bils and to poſitions now preferred unto him.</p>
+            <p>And yet his Majeſty cannot give over, but now again earneſtly preſſeth for a perſonall Treaty, ſo paſſion<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tely is he af<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>cted with the advantages which pe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce will being to his Majeſty and all His Subjects, of which he will not at all diſpair, there being no other viſible way to obtain a wel-grounded peace.</p>
+            <p>However his Maieſty is very much at caſe within himſelf, for having fulfilled the Offices both of a Chriſtian and of a King, and will patiently yea is the good pleaſure of Almighty God, to in<g ref="char:EOLhyphen"/>cline the hearts of his two houſes to conſider their King; and <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> compaſſionate their fellow ſubiects miſeries.</p>
+            <closer>
+               <dateline>Given at Carisbr<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>k Caſtle <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Iſ<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of Wight. <date>D<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>m. <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>8. 1647.</date>
+               </dateline>
+            </closer>
+            <trailer>For the Speaker of the Lord-houſe <hi>pro tempo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e,</hi> to be communica<g ref="char:EOLhyphen"/>ted to the Lords and Commons of the Parliament of England a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> West<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſt<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> the Co<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>iſſi<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>s of the Parli<gap reason="illegible" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> of Scot<g ref="char:EOLhyphen"/>land.</trailer>
+         </div>
+         <div type="letter">
+            <pb n="5" facs="tcp:116476:4"/>
+            <head>A Declaration of the Estates of the Kingdome of <hi>Scotland,</hi> touching His Majesties perſon.</head>
+            <opener>
+               <salute>May it pleaſe your Majeſty,</salute>
+            </opener>
+            <p>THere is nothing which we more conſtantly endeavoured and do more earnestly deſire, then a good agreement, and happy peace between your Maiesty, and your Parliament of both Kingdoms; neither have we left any meanes unaſsayed, that with united Councels with the Houſes of Parliament of England, and by making joynt applications to your Mai. there might be a compoſure of all differences. But the new Propoſi<g ref="char:EOLhyphen"/>tions communicated to us by the Houſes, and the Bils there<g ref="char:EOLhyphen"/>with preſented to your Maieſty are ſo preiudiciall to Religion, Crown, and the union and interest of the Kingdoms, and ſo far different from the former proceedings and engagements betwixt the Kingdoms, as we cannot concur therein. There<g ref="char:EOLhyphen"/>fore we do in the name of the Kingdome of Scotland, diſsent from theſe Bils now tendered to your Maiesty.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Lauderdail.</item>
+                     <item>C. Erskin.</item>
+                     <item>R. Barkley.</item>
+                     <item>H. Kennedy.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>A Relation of Captain <hi>Ingrams</hi> addreſſe to his Excellency Sir <hi>Thomas Fairfax,</hi> and the Councell of War, de<g ref="char:EOLhyphen"/>clared by way of meſſage, as from GOD.</head>
+            <p>THat Captain Ingram came to the Councell of War, and deſired he might be heard to make his acknowledgment,
+<pb n="6" facs="tcp:116476:5"/>and give reaſons to the contrary, according to the former Order of the Councell of Warre.</p>
+            <p>The Councell of War anſwered, that that day was ordered to debate with the Commiſſioners of Parliament, concerning the disbanding of ſupernumeraries, and deſired, that he would withdraw for the preſent, and a further day ſhould be appoint<g ref="char:EOLhyphen"/>ed <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or his buſineſse.</p>
+            <p>He anſwered, that that was the day, which was ordered for his buſineſse, and though the Court-Marſhall might thinke o<g ref="char:EOLhyphen"/>ther buſineſse of more publique concernment, yet his buſineſse was more then ordinary, for he was commanded from God to deliver it, and on that only day.</p>
+            <p>The Generall and Councell of War being willing to give place and preheminence to any thing that ſhould be delivered from God, he was heard, and began to read a very large juſtification but was deſired to forbear for the preſent.</p>
+            <p>
+               <hi>By Letters from Hereford it is advertized, That not long ſince, there was a great Riſing in Wales, and divers of the Welch appeared in ſeverall places of the Coun<g ref="char:EOLhyphen"/>try, in a very mutinous and diſorderly manner: inſomuch, that at the laſt, they gathered to a great head, and marched to a place called Long-town within 20. miles of Here<g ref="char:EOLhyphen"/>ford, and fell upon divers of the ſouldiery in their quar<g ref="char:EOLhyphen"/>ters, but were repulſed, and beaten off by Col<g ref="char:punc">▪</g>
+               </hi> Hertons <hi>R<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>giment.</hi>
+            </p>
+            <closer/>
+            <postscript>
+               <opener>
+                  <dateline>
+                     <date>Ianuary 5.</date>
+                  </dateline>
+               </opener>
+               <p>Imprimatur</p>
+               <closer>
+                  <signed>G. M.</signed>
+               </closer>
+            </postscript>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
